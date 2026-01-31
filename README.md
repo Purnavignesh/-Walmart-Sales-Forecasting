@@ -2,14 +2,6 @@
 
 <p align="center">
   <b>End-to-end machine learning project for accurate weekly sales forecasting at scale</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Regression-green" />
-  <img src="https://img.shields.io/badge/Status-Completed-success" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
-</p>
 
 ---
 
