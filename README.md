@@ -5,7 +5,7 @@
 
 ---
 
-##  Business Problem
+##  Problem Statement
 Large retail organizations like **Walmart** rely on accurate sales forecasting to optimize:
 - Inventory management
 - Demand planning
@@ -27,6 +27,7 @@ This project builds a **production-style machine learning pipeline** to forecast
 ---
 
 ##  Dataset Overview
+- DATASET:- https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast?resource=download
 - **Records:** 45,000+ weekly sales entries
 - **Granularity:** Store-level, weekly data
 - **Key Features:**
