@@ -33,6 +33,7 @@ This project aims to:
 
 ## 📂 Dataset
 
+  https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast?resource=download
 - **Source:** Walmart Sales Forecast Dataset (Kaggle)  
 - **Domain:** Retail Analytics, Time-Series Forecasting  
 
@@ -123,7 +124,7 @@ This forecasting solution helps retail businesses:
 
 ## 🧑‍💻 Author
 
-**Reddy**  
-Aspiring Data Scientist | Machine Learning & Analytics Enthusiast  
+** Armalla Purna Vignesh Reddy**  
+Aspiring Data Analyst | Machine Learning & Analytics Enthusiast  
 
 ⭐ If you find this project helpful, consider giving it a star!
