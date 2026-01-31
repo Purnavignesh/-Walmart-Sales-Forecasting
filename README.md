@@ -1,11 +1,11 @@
-# 🚀 Walmart Sales Forecasting using Machine Learning
+#  Walmart Sales Forecasting using Machine Learning
 
 <p align="center">
   <b>End-to-end machine learning project for accurate weekly sales forecasting at scale</b>
 
 ---
 
-## 🧠 Business Problem
+##  Business Problem
 Large retail organizations like **Walmart** rely on accurate sales forecasting to optimize:
 - Inventory management
 - Demand planning
@@ -17,7 +17,7 @@ This project builds a **production-style machine learning pipeline** to forecast
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Analyze large-scale historical sales data
 - Identify seasonal and holiday-driven patterns
 - Engineer high-impact features
@@ -26,7 +26,7 @@ This project builds a **production-style machine learning pipeline** to forecast
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 - **Records:** 45,000+ weekly sales entries
 - **Granularity:** Store-level, weekly data
 - **Key Features:**
@@ -38,7 +38,7 @@ This project builds a **production-style machine learning pipeline** to forecast
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 **Languages & Libraries**
 - Python
 - Pandas, NumPy
@@ -52,44 +52,44 @@ This project builds a **production-style machine learning pipeline** to forecast
 
 ---
 
-## 🔄 End-to-End Workflow
+##  End-to-End Workflow
 
-### 1️⃣ Data Preprocessing
+###  Data Preprocessing
 - Cleaned and validated raw sales data
 - Handled missing values and inconsistencies
 - Converted date fields into machine-learning-friendly formats
 
-### 2️⃣ Exploratory Data Analysis (EDA)
+###  Exploratory Data Analysis (EDA)
 - Identified long-term and seasonal sales trends
 - Analyzed the impact of holidays on revenue
 - Compared store-wise performance patterns
 
-### 3️⃣ Feature Engineering
+###  Feature Engineering
 - Created holiday and seasonal indicators
 - Extracted time-based features (week, month, year)
 - Improved model learning with structured predictors
 
-### 4️⃣ Model Development
+###  Model Development
 - Linear Regression (baseline)
 - Random Forest Regressor
 - XGBoost Regressor
 
-### 5️⃣ Model Evaluation
+###  Model Evaluation
 - Compared models using **Root Mean Squared Error (RMSE)**
 - Benchmarked ensemble models against baseline
 - Selected the most accurate and stable model
 
 ---
 
-## 📈 Results & Model Performance
+##  Results & Model Performance
 
 | Model | Description | Performance |
 |------|------------|-------------|
 | Linear Regression | Baseline model | High error |
 | Random Forest | Ensemble-based regression | Improved RMSE |
-| **XGBoost** ⭐ | Gradient boosting model | **Best performance (Lowest RMSE)** |
+| **XGBoost**  | Gradient boosting model | **Best performance (Lowest RMSE)** |
 
-### 🔍 Key Insights
+###  Key Insights
 - Ensemble models significantly outperformed traditional regression
 - Feature engineering had a strong impact on accuracy
 - XGBoost captured non-linear patterns and seasonal effects most effectively
@@ -98,17 +98,3 @@ This project builds a **production-style machine learning pipeline** to forecast
 
 ---
 
-## 🧪 How to Run the Project
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/walmart-sales-forecasting.git
-
-# Navigate to the project directory
-cd walmart-sales-forecasting
-
-# Install required dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter Notebook
-jupyter notebook
