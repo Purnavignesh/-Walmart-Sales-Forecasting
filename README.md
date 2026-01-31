@@ -1,4 +1,4 @@
-#  Walmart Sales Forecasting using Machine Learning
+#  Walmart Sales Forecasting using Data Mining Techniques
 
 <p align="center">
   <b>End-to-end machine learning project for accurate weekly sales forecasting at scale</b>
