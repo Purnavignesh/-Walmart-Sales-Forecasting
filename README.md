@@ -95,7 +95,7 @@ This project builds a **production-style machine learning pipeline** to forecast
 - Feature engineering had a strong impact on accuracy
 - XGBoost captured non-linear patterns and seasonal effects most effectively
 
-📌 **Outcome:** Achieved reliable and scalable sales predictions suitable for real-world retail forecasting.
+ **Outcome:** Achieved reliable and scalable sales predictions suitable for real-world retail forecasting.
 
 ---
 
